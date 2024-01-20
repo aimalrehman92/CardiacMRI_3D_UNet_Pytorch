@@ -9,7 +9,7 @@ utilities.py \
 read_cardiac_MRI_segments.py \
 Pure_SA_3D_8x8_2.architecture.py \
 preprocess_on_fly.py \
-metrics.py \
+metrics.py
 
 The notebook contains both training code and the inference code.
 
