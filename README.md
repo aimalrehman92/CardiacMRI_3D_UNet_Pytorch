@@ -11,6 +11,8 @@ Pure_SA_3D_8x8_2.architecture.py \
 preprocess_on_fly.py \
 metrics.py \
 
+The notebook contains both training code and the inference code.
+
 # How to run in your local
 
 1. Open the notebook and remove all the commands related to Google Colab and Goole Drive
@@ -26,3 +28,4 @@ metrics.py \
 2. Upoad all the files in this repository in the '/content' folder using Files tab in Colab notebook.
 3. Make sure to place the data in the Google Drive and and fix the paths in the notebook accoridingly
 3. Run all the cells of the notebook.
+
